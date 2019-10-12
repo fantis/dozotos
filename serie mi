@@ -129,3 +129,42 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIA3T-EP11.mp4?attachment=t
 http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIA3T-EP12.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEC2VOTWHAySoM3rxd-4zy9K6eWeU5_f291ao2EKmSUC0in_DH" group-title="O Conto da Aia - dublado",3T-E13
 http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIA3T-EP13.mp4?attachment=true
+
+
+#EXTM3U
+	
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E01
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E02
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E03
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E04
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E05
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E06
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E07
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E08
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP08.mp4?attachment=true
+
+
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E01
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E02
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E03
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E04
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E05
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E06
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E07
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E08
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP08.mp4?attachment=true
+

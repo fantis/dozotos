@@ -32,6 +32,8 @@ http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_53d4ddd7ea8f27e1
 http://edge.aovivo.club/hls/s:155.138.226.22/nickjr_54ceb912_ca7d5c082f42c59a6c22d543a733a9a2dc17e2ec/410p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Infantil",  tooncast
+http://edge.aovivo.club/hls/s:155.138.227.45/tooncast_8effee40_c0e91b9f9fb7475dbac8dacc5a608107ba7f1824/480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Infantil",  tooncast 0
 http://edge.aovivo.club/hls/s:45.32.217.66/tooncast_8effee40_9c249d13bd966209d495c9df0785c1b3a2978dcf/480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Infantil",  tooncast 1
 https://static.inter1ads.com/templates/_assets/video-streaming/got-daenerys-power-en/video.mpg?v=3

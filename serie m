@@ -51,6 +51,8 @@ https://slave2.sfplayer.net/drive//hls/82c1ace4bfc92f3717dd75f736ddcf99/82c1ace4
 
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T01E01
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT01EP01.mp4?attachment=true
 #EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T01E02
@@ -94,6 +96,15 @@ http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP08.mp4?attachment=t
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP09.mp4?attachment=true
 #EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T02E10
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E11
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E12
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E13
+http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIAT02EP12.mp4?attachment=true
+
+
+
 
 
 #EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E01
@@ -116,5 +127,11 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP08.mp4?attachment=t
 http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP09.mp4?attachment=true
 #EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E10
 http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia" group-title="dublado",T03E11
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia"group-title="dublado",T03E12
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="O Conto da Aia"group-title="dublado",T03E13
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIAT03EP13.mp4?attachment=true
 
 

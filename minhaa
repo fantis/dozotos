@@ -2,7 +2,7 @@
 http://aovivo.club/
 
 
-infantil
+######################## infantil ########################
 
 #EXTINF:-1, group-title="Infantil", NatGeo Kids
 http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_3b7f168507748378fc7fa440fe1724bfdb854a31.m3u8
@@ -62,7 +62,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_91de58a6b087e73
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_4adf1740e3b9ab6a240124312c6892fb6c526151.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_6904a003a17d4e5783a8bbb68d198bb6d7a7e659.m3u8
 
-Filme e Series
+######################## Filme e Series ########################
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1528189330_b216000_sleng.m3u8
@@ -277,7 +277,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_820d77fee2dce01d385
 http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_03aab0fbc590e4420f59b5bcb84e36584e7a81bc/playlist.m3u8
 
 
-Documentarios
+######################## Documentarios ########################
 
 
 #EXTINF:0 tvg-logo="" group-title="Documentario", National Geographic
@@ -348,7 +348,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_505
 http://edge.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_dbb78874c2afaaa952c0a695238c76340d9e2708/playlist.m3u8
 
 
-Variedades
+######################## Variedades ########################
 
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Futura
@@ -437,7 +437,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_d751a63277776cde
 http://edge.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_04f1cbb8d41c6e0bc5a4268246dab9d5f83d952a/playlist.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_5bbea590a88185a968dd704a2f0d12602a3f8ee8.m3u8
 
-Canais Musica
+######################## Canais Musica ########################
 
 
 #EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD
@@ -465,7 +465,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/vh1_a29e971b_0f0d1a7de439c429e1ec1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/vh1_a29e971b_143a42d32c579b2ffdf7950c2f93738152dc2893.m3u8
 
 
-Esportes
+######################## Esportes ########################
 
 #EXTINF:0 tvg-logo="" group-title="Esportes", Canal Combate
 http://edge.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_74299310152008abaa8a68a147d039402105a45e.m3u8

@@ -7,43 +7,53 @@ infantil
 #EXTINF:-1, group-title="Infantil", NatGeo Kids
 http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_3b7f168507748378fc7fa440fe1724bfdb854a31.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_517bdba9e64c08fa048088004755db76dc5738e4.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_2af7d2740bce77d20486c23538d15d629051119c.m3u8
 
 #EXTINF:-1, group-title="Infantil", Cartoon Network
 http://edge.aovivo.club/hls/s:45.32.217.66/cartoonnetwork_511a418e_9081266674abc94d314cdc1215c34dbc72cf3933/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_a0e9ef72ebd40bf5822a2d5927c342b644c7a374/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_af490132b2ca42bbc429c6026d4e7249c9b6ec31/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Discovery Kids
 http://edge.aovivo.club/hls/s:155.138.226.22/discoverykids_80e28a51_19f2b3b5dee7131bf03e1591a183b65db5e4ba2d/480p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/discoverykids_80e28a51_919056db26e46421f543cde267e00ead26aacdc5/480p/chunklist.m3u8
 https://r2---sn-bg0ezn7y.c.2mdn.net/videoplayback/id/2dbe46a02a8c623e/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3712159797/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/2EAD7DBF0FAD96777B38C46005B2A0B6A62D3656.5E562493D00639D49268B43601EB7180E98EFF10/key/cms1/cms_redirect/yes/mip/138.121.129.90/mm/42/mn/sn-bg0ezn7y/ms/onc/mt/1570899326/mv/m/mvi/1/pl/23/file/file.mp4
+http://edge.aovivo.club/hls/s:155.138.227.156/discoverykids_80e28a51_919056db26e46421f543cde267e00ead26aacdc5/480p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Disney XD
 http://edge.aovivo.club/hls/s:155.138.226.22/disneyxd_d094700e_a12bbf5ee55c77bdfbb16954c8cf6b0347da3cd4/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/disneyxd_d094700e_01dd7c2127892ea2a177ca845d4c77e1ad1a3b8c/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/disneyxd_d094700e_392a4996ea012763d4c1920baf11c0fd84cb355f/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Disney Junior
 http://edge.aovivo.club/hls/s:155.138.227.45/disneyjunior_572e2073_1706336afc094293673012881685ae1ee10619da/480p_420kbit/chunklist.m3u8
 http://edge.aovivo.club/hls/s:45.32.217.66/disneyjunior_572e2073_ed36b9f828c4e7389f6fb0e22a19c8f82c50feee/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/disneyjunior_572e2073_ecfbd04bcc874062a5828f1c6456f545acf75614/480p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Disney Channel
 http://edge.aovivo.club/hls/s:45.32.217.66/disneychannel_a9334987_8d178e99c8afc69d01d62b459cd6190cda15647c/410p_710kbit/chunklist.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_ddb3872300016746b049e65fcae5b23303ddf26f.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/disneychannel_a9334987_9032c288a43932fe9a030c8f7f1a88e0508c053b/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Gloob
 http://edge.aovivo.club/hls/s:155.138.226.22/gloob_04f1241e_b201fa7b92e27fc7f53ae9aa0d9a380eb807d122/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:45.32.217.66/gloob_04f1241e_52d15514771cad4e148556960f43bb79c17bd14d/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.226.22/gloob_04f1241e_55758d1aea2ae97777ea2af20a98872c5369dd9f/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Nickelodeon
 http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_53d4ddd7ea8f27e13e38a7dd373364f77115e0f3/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/nickelodeon_bc33ea4e_069ba2c37e9e5d9f9cd03e96736bf23d8122ab02/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_6636300aa34a601f55f8e6fa64f68e058b0281d3/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil", Nick Jr.
 http://edge.aovivo.club/hls/s:155.138.227.156/nickjr_54ceb912_94c5a694b71bb347d01d4af525579f00039eaf7b/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/nickjr_54ceb912_94c5a694b71bb347d01d4af525579f00039eaf7b/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/nickjr_54ceb912_454abcc80225ea4747b90809d6900647b42e9d4e/410p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil",  tooncast
 http://edge.aovivo.club/hls/s:45.32.217.66/tooncast_8effee40_9c249d13bd966209d495c9df0785c1b3a2978dcf/480p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/tooncast_8effee40_c0e91b9f9fb7475dbac8dacc5a608107ba7f1824/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/tooncast_8effee40_95ad74575b832b0831a6b8ce471a6e51611cee9d/480p/chunklist.m3u8
 
 #EXTINF:-1, group-title="Infantil",  tooncast 1
 https://static.inter1ads.com/templates/_assets/video-streaming/got-daenerys-power-en/video.mpg?v=3
@@ -51,41 +61,49 @@ https://static.inter1ads.com/templates/_assets/video-streaming/got-daenerys-powe
 #EXTINF:-1, group-title="Infantil", Boomerang
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_91de58a6b087e739ff1f0a047393f9a4785b7489.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_4adf1740e3b9ab6a240124312c6892fb6c526151.m3u8
-
+http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_6904a003a17d4e5783a8bbb68d198bb6d7a7e659.m3u8
 
 Filme e Series
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1528189330_b216000_sleng.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_82bc4154853beac9244d14b22c788b9a7dc20209.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_9515503b01d23ed46f1077106698da028be415f5.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", A&E Mundo
 http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_130a0a80ea38b864a0eac24c3531d5739cd74aa2/playlist.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_540c9ea6fe08c18a3b6a7aeee2e5f105b34048f8/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_2b1a045edcd6bd802d74b1089bae77a7d7d9ee43/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", FX
 http://edge.aovivo.club/hls/s:155.138.226.22/fx_667be543_0346dbbcda799bf863303a88ed9bffa6a071de75/720p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:45.32.217.66/fx_667be543_3791b29285f02f1b8b0f2409d096188e0c9800a4/720p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.226.22/fx_667be543_8c7233fc96689cf4c208aad01d47d8220c1e3082/720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Touch
 http://edge.aovivo.club/hls/s:155.138.227.156/telecinetouch_74cbd2c2_9c6b774651dd9507f7d661517b3658ce6c6be197/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/telecinetouch_74cbd2c2_ba3271b6f79be295d2e2433f2bda29e0cc42a752/480p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.45/telecinetouch_74cbd2c2_ba3271b6f79be295d2e2433f2bda29e0cc42a752/480p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_3746123ff0082e998764486f8478cc83eea39ada/playlist.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_68bec678d3ee218d6b37b594e3fe9429a0ad1938/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_57c381f6d0c26d4949ac5793f9a590ec42856728/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium
 http://edge.aovivo.club/hls/s:45.32.217.66/telecinepremium_a929eb33_768a63b84a56270c1e0bf3c1eaf3d8556032aa4d/480p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.45/telecinepremium_a929eb33_b899c381a393c24ba7746bcf4467e318f25273ab/480p_950kbit/chunklist.m3u8
+http://edge.aovivo.club/hls/s:45.32.217.66/telecinepremium_a929eb33_e2d855891e74ce1cfc24df770b4c3344b90518bf/480p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1537314817_b216000_sleng.m3u8
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_6a7ff02847b82aa41d613afa1960c3735ba08314/playlist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_8f07a4c213dc43ea136173764bdd4bb1f44c4e36/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca
 http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_cc98222ae589951097e55150153bd4c71279afb0/410p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.45/telecinepipoca_fd937516_e64b41515b5c12980f39256acfd9bac9c02a702a/410p_600kbit/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.226.22/telecinepipoca_fd937516_ce5c077499a2c6ee0fdab8be431e799117894a28/410p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Fun
 http://edge.aovivo.club/hls/s:155.138.226.22/telecinefun_ae1e7198_b1953006d8e40bf9ec724d9d02e2e8e24bae8c00/410p/chunklist.m3u8

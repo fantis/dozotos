@@ -1,5 +1,7 @@
 #EXTM3U
 
+-----Manifest-----:
+
 #EXTINF:0 tvg-logo="https://i0.wp.com/freakpop.com.br/wp-content/uploads/2019/10/manifest-globoplay.jpg?fit=900%2C560&ssl=1" group-title="Manifest", 1T-E01
 https://slave2.sfplayer.net/drive//hls/0f4c26c87bc07aad0a793e91821d1398/0f4c26c87bc07aad0a793e91821d1398.m3u8
 
@@ -52,6 +54,8 @@ https://slave2.sfplayer.net/drive//hls/82c1ace4bfc92f3717dd75f736ddcf99/82c1ace4
 
 
 #EXTM3U
+
+-----O Conto da Aia-----:
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBsYg7fgV6ZDGUgwYPNIZvBXOXY3GsKeaVOPGSHj_gAm2r0UP" group-title="O Conto da Aia - dublado",1T-E01
 http://cdnfe3.azureedge.net/RCServer08/ondemand/OCNTDAIA1T-EP01.mp4?attachment=true
@@ -132,7 +136,9 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/OCNTDAIA3T-EP13.mp4?attachment=t
 
 
 #EXTM3U
-	
+
+----- Elite -----:
+
 #EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E01
 http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP01.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/AAAABbT5N038hxAsHX2scdjdUs4bjUB2HlKuhS0JF_lr3COjzG02Flu7K3nULbuhLOOeSQYUpcwiDMrat_jHz8rIXSOswlDs6sBS319PPUbmPT6vc1-xQcM2.jpg?zoom=2.625&fit=512%2C288&ssl=1" group-title="Elite", 1T-E02
@@ -168,8 +174,10 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP07.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://interprete.me/wp-content/uploads/2018/10/elite-netflix-serie-thriller-adolescente-capa-700x361.jpg" group-title="Elite", 2T-E08
 http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP08.mp4?attachment=true
 
-#EXTM3U		
-	
+#EXTM3U	
+
+----- House Of Cards -----:
+
 #EXTINF:0 tvg-logo="https://houseofcardsbrasil.files.wordpress.com/2017/05/s01e01.jpg?w=816" group-title="House Of Cards",1T-E01
 http://cdnfe3.azureedge.net/RCServer07/ondemand/HOOFCRDST01EP01.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://houseofcardsbrasil.files.wordpress.com/2017/05/s01e01.jpg?w=816" group-title="House Of Cards",1T-E02
@@ -321,5 +329,118 @@ http://cdnfe3.azureedge.net/RCServer10/ondemand/HOOFCRDST06EP06.mp4?attachment=t
 http://cdnfe3.azureedge.net/RCServer10/ondemand/HOOFCRDST06EP07.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://ogimg.infoglobo.com.br/cultura/22956532-ae6-3c6/FT1086A/652/x56abc182-cbbc-4967-a085-d6e529ffe4d0.jpg.pagespeed.ic.fPi_XVmvk9.jpg" group-title="House Of Cards",6T-E08
 http://cdnfe3.azureedge.net/RCServer10/ondemand/HOOFCRDST06EP08.mp4?attachment=true
+
+#EXTM3U
+
+----- Billions -----:
+
+1ª Temporada
+
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E01	Episódio 01 - Piloto
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP01.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E02	Episódio 02 - Fechando O Cerco
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP02.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E03	Episódio 03 - Sabor De Juventude
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP03.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E04	Episódio 04 - Short Squeeze
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP04.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E05	Episódio 05 - Que Vida Boa
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP05.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E06	Episódio 06 - O Acordo
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP06.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E07	Episódio 07 - Tapa Na Cara
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP07.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E08	Episódio 08 - Quem É O Traidor?
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP08.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E09	Episódio 09 - Onde O Donnie Se Meteu?
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP09.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E10	Episódio 10 - Qualidade De Vida
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP10.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E11	Episódio 11 - Pensamento Mágico
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP11.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",1T-E12	Episódio 12 - Embate Explosivo
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST01EP12.mp4?attachment=true	
+
+2ª Temporada
+
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E12	Episódio 01 - Gerenciamento De Risco
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP01.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E13	Episódio 02 - Voo Da Galinha
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP02.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E14	Episódio 03 - Cenário Ideal
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP03.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E15	Episódio 04 - O Juramento
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP04.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E16	Episódio 05 - Uma Questão De Moeda
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP05.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E17	Episódio 06 - Indian 4
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP06.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E18	Episódio 07 - A Volta Da Vitória
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP07.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E19	Episódio 08 - O Criador De Reis
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP08.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E20	Episódio 09 - Sic Transit Imperium
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP09.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E21	Episódio 10 - Com Ou Sem Você
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP10.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E22	Episódio 11 - A Hora Do Sapo-Dourado
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP11.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",2T-E23	Episódio 12 - Bola Na Mão
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST02EP12.mp4?attachment=true	
+
+3ª Temporada
+
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E12	Episódio 01 - Um Empate Favorece O Corredor
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP01.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E13	Episódio 02 - Não É A Nossa Maria Gonzalez
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP02.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E14	Episódio 03 - Uma Geração Atrasado
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP03.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E15	Episódio 04 - Uma Jornada E Tanto
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP04.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E16	Episódio 05 - Falha Na Estrela Da Morte
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP05.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E17	Episódio 06 - A Terceira Sombria
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP06.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E18	Episódio 07 - Você Não, Sr. Dake
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP07.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E19	Episódio 08 - Todos Os Wilburys Juntos
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP08.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E20	Episódio 09 - Quebra-gelo
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP09.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E21	Episódio 10 - Retirada
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP10.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E22	Episódio 11 - Compenso
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP11.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",3T-E23	Episódio 12 - A Contagem Elmsley
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST03EP12.mp4?attachment=true	
 	
+4ª Temporada
+
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E12	Episódio 01 - A Melhor Jogada de Chucky Rhoades
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP01.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E13	Episódio 02 - Estilo - Assistir
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP02.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E14	Episódio 03 - Terra das Galinhas
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP03.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E15	Episódio 04 - Janela de Overton
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP04.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E16	Episódio 05 - Um Bom Discurso de Despedida
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP05.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E17	Episódio 06 - Profundidade Máxima Recreacional
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP06.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E18	Episódio 07 - Jogo Infinito
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP07.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E19	Episódio 08 - Noite da Luta
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP08.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E20	Episódio 09 - Campeão Americano
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP09.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E21	Episódio 10 - Dia de Ano-novo
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP10.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E22	Episódio 11 - Foragido
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP11.mp4?attachment=true	
+#EXTINF:0 tvg-logo="" group-title="Billions",4T-E23	Episódio 12 - Caixa de Areia Radical
+http://cdnfe2.azureedge.net/RCServer06/ondemand/BLIONST04EP12.mp4?attachment=true	
+		
+
 	

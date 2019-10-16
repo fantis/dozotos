@@ -1,0 +1,401 @@
+
+#EXTINF:0 type="stream" tvg-id="TLC HD [Alter]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TLC-HD_Logo_Germany.png" group-title="Variedade",TLC HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TLC_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filme e 15|false|true|10",TNT
+http://load.kudaplay.tv/aovivo/SD_TNT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT FHD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filme e 15|false|true|10",TNT FHD
+http://load.kudaplay.tv/aovivo/FHD_TNT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filme e 15|false|true|10",TNT HD
+http://load.kudaplay.tv/aovivo/HD_TNT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT HD [Alter]" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filme e 15|false|true|10",TNT HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TNT_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filme e 15|false|true|10",TNT Series
+http://load.kudaplay.tv/aovivo/SD_TNT_SERIES/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="Filme e 15|false|true|10",TNT Series FHD
+http://load.kudaplay.tv/aovivo/FHD_TNT_SERIES/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="Filme e 15|false|true|10",TNT Series HD
+http://load.kudaplay.tv/aovivo/HD_TNT_SERIES/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TNT Series HD [Alter]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="Filme e 15|false|true|10",TNT Series HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Aparecida" tvg-logo="http://s3.amazonaws.com/portala12/source/files/c/150168/676-400-0-0.jpg" group-title="TV Aberta",TV Aparecida
+http://load.kudaplay.tv/aovivo/SD_TV_APARECIDA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Brasil" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TV_BRASIL.png" group-title="TV Aberta",TV Brasil
+http://load.kudaplay.tv/aovivo/SD_TV_BRASIL/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Camara" tvg-logo="http://www.portaldosjornalistas.com.br/wp-content/uploads/2018/01/tvcamara.png" group-title="TV Aberta",TV Camara
+http://load.kudaplay.tv/aovivo/SD_TV_CAMARA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Centro America" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="TV Aberta",TV Centro America
+http://load.kudaplay.tv/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Escola" tvg-logo="http://roquettepinto.org.br/wp-content/uploads/2018/01/tvescola-projeto-novo.png" group-title="TV Aberta",TV Escola
+http://load.kudaplay.tv/aovivo/SD_TV_ESCOLA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Jornal Caruaru" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_TV_Jornal.jpg/200px-Logotipo_TV_Jornal.jpg" group-title="TV Aberta",TV Jornal Caruaru
+http://load.kudaplay.tv/aovivo/SD_JORNAL_CARURARU/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Justica" tvg-logo="https://www.jota.info/wp-content/uploads/2018/01/1502123023_2017-08-07_tvjustica-768x544.jpg" group-title="TV Aberta",TV Justica
+http://load.kudaplay.tv/aovivo/SD_TV_JUSTICA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Ratimbum" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="Infantil",TV Ratimbum
+http://load.kudaplay.tv/aovivo/SD_TV_RATIMBUM/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Ratimbum HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="Infantil",TV Ratimbum HD
+http://load.kudaplay.tv/aovivo/HD_TV_RATIMBUM/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TV Senado" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/tv_senado.jpg" group-title="TV Aberta",TV Senado
+http://load.kudaplay.tv/aovivo/SD_TV_SENADO/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/200px-Logo_TVE-Internacional.svg.png" group-title="Internacional",TVE
+http://load.kudaplay.tv/aovivo/SD_TVE/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Action" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_ACTION.png" group-title="Filme e 15|false|true|10",Telecine Action
+http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Action FHD" tvg-logo="http://cliente.kudaplay.tv/tema/canais_logo/HD_TC_ACTION.png" group-title="Filme e 15|false|true|10",Telecine Action FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_ACTION/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Action HD" tvg-logo="http://cliente.kudaplay.tv/tema/canais_logo/HD_TC_ACTION.png" group-title="Filme e 15|false|true|10",Telecine Action HD
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="http://cliente.kudaplay.tv/tema/canais_logo/HD_TC_ACTION.png" group-title="Filme e 15|false|true|10",Telecine Action HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Cult" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_CULT.png" group-title="Filme e 15|false|true|10",Telecine Cult
+http://load.kudaplay.tv/aovivo/SD_TC_CULT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PIPOCA.png" group-title="Filme e 15|false|true|10",Telecine Cult FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_CULT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Cult HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_CULT.png" group-title="Filme e 15|false|true|10",Telecine Cult HD
+http://load.kudaplay.tv/aovivo/HD_TC_CULT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_CULT.png" group-title="Filme e 15|false|true|10",Telecine Cult HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Fun" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_FUN.png" group-title="Filme e 15|false|true|10",Telecine Fun
+http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_FUN.png" group-title="Filme e 15|false|true|10",Telecine Fun FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_FUN/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Fun HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_FUN.png" group-title="Filme e 15|false|true|10",Telecine Fun HD
+http://load.kudaplay.tv/aovivo/HD_TC_FUN/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_FUN.png" group-title="Filme e 15|false|true|10",Telecine Fun HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Pipoca" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_PIPOCA.png" group-title="Filme e 15|false|true|10",Telecine Pipoca
+http://load.kudaplay.tv/aovivo/SD_TC_PIPOCA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PIPOCA.png" group-title="Filme e 15|false|true|10",Telecine Pipoca FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PIPOCA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PIPOCA.png" group-title="Filme e 15|false|true|10",Telecine Pipoca HD
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PIPOCA.png" group-title="Filme e 15|false|true|10",Telecine Pipoca HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Premium" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_PREMIUM.png" group-title="Filme e 15|false|true|10",Telecine Premium
+http://load.kudaplay.tv/aovivo/SD_TC_PREMIUM/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PREMIUM.png" group-title="Filme e 15|false|true|10",Telecine Premium FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PREMIUM/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Premium HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_PREMIUM.png" group-title="Filme e 15|false|true|10",Telecine Premium HD
+http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Touch" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TC_TOUCH.png" group-title="Filme e 15|false|true|10",Telecine Touch
+http://load.kudaplay.tv/aovivo/SD_TC_TOUCH/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_TOUCH.png" group-title="Filme e 15|false|true|10",Telecine Touch FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_TOUCH/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Touch HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_TOUCH.png" group-title="Filme e 15|false|true|10",Telecine Touch HD
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_TOUCH.png" group-title="Filme e 15|false|true|10",Telecine Touch HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Terra Viva" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/10/terra-viva.jpg" group-title="TV Aberta",Terra Viva
+http://load.kudaplay.tv/aovivo/SD_TERRA_VIVA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Tooncast" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TOONCAST.png" group-title="Infantil",Tooncast
+http://load.kudaplay.tv/aovivo/SD_TOONCAST/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Tooncast HD" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/04/tooncast-hd-na-sky.png" group-title="Infantil",Tooncast HD
+http://load.kudaplay.tv/aovivo/HD_TOONCAST/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Tooncast HD [Alter]" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/04/tooncast-hd-na-sky.png" group-title="Infantil",Tooncast HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Trutv" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TRUTV.png" group-title="Variedade",Trutv
+http://load.kudaplay.tv/aovivo/SD_TRUTV/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Trutv HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_TRUTV.png" group-title="Variedade",Trutv HD
+http://load.kudaplay.tv/aovivo/HD_TRUTV/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="Filme e 15|false|true|10",Universal Channel
+http://load.kudaplay.tv/aovivo/SD_UNIVERSAL/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Universal Channel FHD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c4/84/5f/c4845f3809f948589564690fbc01ef90.jpg" group-title="Filme e 15|false|true|10",Universal Channel FHD
+http://load.kudaplay.tv/aovivo/FHD_UNIVERSAL/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Universal Channel HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c4/84/5f/c4845f3809f948589564690fbc01ef90.jpg" group-title="Filme e 15|false|true|10",Universal Channel HD
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Universal Channel HD [Alter]" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c4/84/5f/c4845f3809f948589564690fbc01ef90.jpg" group-title="Filme e 15|false|true|10",Universal Channel HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="VH1" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Entretenimento e 13|false|true|10",VH1
+http://load.kudaplay.tv/aovivo/SD_VH1/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="VH1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/dc/VH1_HD_2013.png" group-title="Entretenimento e 13|false|true|10",VH1 HD
+http://load.kudaplay.tv/aovivo/HD_VH1/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="VH1 HD [Alter]" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/dc/VH1_HD_2013.png" group-title="Entretenimento e 13|false|true|10",VH1 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_VH1_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="VH1 Megahits" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_VH1.png" group-title="Entretenimento e 13|false|true|10",VH1 Megahits
+http://load.kudaplay.tv/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Viva" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png" group-title="Variedade",Viva
+http://load.kudaplay.tv/aovivo/SD_VIVA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Viva HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Variedade",Viva HD
+http://load.kudaplay.tv/aovivo/HD_VIVA/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Viva HD [Alter]" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Variedade",Viva HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_VIVA_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://vignette4.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20150529212740&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;path-prefix=pt-br" group-title="Filme e 15|false|true|10",Warner Channel
+http://load.kudaplay.tv/aovivo/SD_WARNER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Warner Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Filme e 15|false|true|10",Warner Channel FHD
+http://load.kudaplay.tv/aovivo/FHD_WARNER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Filme e 15|false|true|10",Warner Channel HD
+http://load.kudaplay.tv/aovivo/HD_WARNER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Warner Channel HD [Alter]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="Filme e 15|false|true|10",Warner Channel HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_WARNER_ALTER/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Woohoo" tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Woohoo-clarohdtv-tv.jpg" group-title="Variedade",Woohoo
+http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Woohoo HD" tvg-logo="http://www.clarohd.com.br/blog/wp-content/uploads/2015/07/Woohoo-clarohdtv-tv.jpg" group-title="Variedade",Woohoo HD
+http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="Zoomoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Infantil",Zoomoo HD
+http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+#EXTINF:0 type="stream" tvg-id="i-Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ISat.svg/1280px-ISat.svg.png" group-title="Filme e 15|false|true|10",i-Sat
+http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=ae1f0ad3b96692ab6caba6eb10dc5618
+
+#EXTM3U
+#EXTINF:0,A FAZENDA HD
+http://list.deeplist.nl:80/0002/1234/50846
+#EXTINF:0,A FAZENDA SD 1
+http://list.deeplist.nl:80/0002/1234/50843
+#EXTINF:0,A FAZENDA SD 2
+http://list.deeplist.nl:80/0002/1234/50844
+#EXTINF:0,A FAZENDA SD+
+http://list.deeplist.nl:80/0002/1234/50845
+#EXTINF:0,A&E
+http://list.deeplist.nl:80/0002/1234/1120
+#EXTINF:0,AMC
+http://list.deeplist.nl:80/0002/1234/9609
+#EXTINF:0,ANIMAL PLANET
+http://list.deeplist.nl:80/0002/1234/1719
+#EXTINF:0,ANIMAL PLANET HD
+http://list.deeplist.nl:80/0002/1234/1117
+#EXTINF:0,ARTE 1 HD
+http://list.deeplist.nl:80/0002/1234/20795
+#EXTINF:0,AXN
+http://list.deeplist.nl:80/0002/1234/1712
+#EXTINF:0,AXN FULL HD
+http://list.deeplist.nl:80/0002/1234/5033
+#EXTINF:0,AXN HD
+http://list.deeplist.nl:80/0002/1234/1114
+#EXTINF:0,BAND NEWS
+http://list.deeplist.nl:80/0002/1234/1107
+#EXTINF:0,BAND NEWS FULL HD
+http://list.deeplist.nl:80/0002/1234/18028
+#EXTINF:0,BAND NEWS HD
+http://list.deeplist.nl:80/0002/1234/17951
+#EXTINF:0,BAND SP
+http://list.deeplist.nl:80/0002/1234/1713
+#EXTINF:0,BAND SP FULL HD
+http://list.deeplist.nl:80/0002/1234/46900
+#EXTINF:0,BAND SP HD
+http://list.deeplist.nl:80/0002/1234/1108
+#EXTINF:0,BAND SPORTS
+http://list.deeplist.nl:80/0002/1234/1106
+#EXTINF:0,BAND SPORTS FULL HD
+http://list.deeplist.nl:80/0002/1234/5034
+#EXTINF:0,BAND SPORTS HD
+http://list.deeplist.nl:80/0002/1234/2407
+#EXTINF:0,BOOMERANG
+http://list.deeplist.nl:80/0002/1234/1102
+#EXTINF:0,CANAL BRASIL HD
+http://list.deeplist.nl:80/0002/1234/5079
+#EXTINF:0,CANAL BRASIL SD 1
+http://list.deeplist.nl:80/0002/1234/38743
+#EXTINF:0,CANAL BRASIL SD+
+http://list.deeplist.nl:80/0002/1234/24745
+#EXTINF:0,CARTOON NETWORK
+http://list.deeplist.nl:80/0002/1234/1095
+#EXTINF:0,CARTOON NETWORK HD
+http://list.deeplist.nl:80/0002/1234/2479
+#EXTINF:0,CINEMAX
+http://list.deeplist.nl:80/0002/1234/2483
+#EXTINF:0,CINEMAX FULL HD
+http://list.deeplist.nl:80/0002/1234/26027
+#EXTINF:0,CINEMAX HD
+http://list.deeplist.nl:80/0002/1234/5080
+#EXTINF:0,COMBATE FULL HD
+http://list.deeplist.nl:80/0002/1234/18019
+#EXTINF:0,COMBATE HD
+http://list.deeplist.nl:80/0002/1234/1088
+#EXTINF:0,COMBATE SD 1
+http://list.deeplist.nl:80/0002/1234/38746
+#EXTINF:0,COMBATE SD 2
+http://list.deeplist.nl:80/0002/1234/38745
+#EXTINF:0,COMBATE SD 3
+http://list.deeplist.nl:80/0002/1234/38744
+#EXTINF:0,COMBATE SD 4
+http://list.deeplist.nl:80/0002/1234/1089
+#EXTINF:0,COMBATE SD+
+http://list.deeplist.nl:80/0002/1234/22442
+#EXTINF:0,COPA LIBERTADORES 2019 HD
+http://list.deeplist.nl:80/0002/1234/48114
+#EXTINF:0,DAZN FULL HD
+http://list.deeplist.nl:80/0002/1234/46924
+#EXTINF:0,DAZN HD
+http://list.deeplist.nl:80/0002/1234/46925
+#EXTINF:0,DEUTSCH SD+
+http://list.deeplist.nl:80/0002/1234/38471
+#EXTINF:0,DISCOVERY CHANNEL
+http://list.deeplist.nl:80/0002/1234/1084
+#EXTINF:0,DISCOVERY CHANNEL FULL HD
+http://list.deeplist.nl:80/0002/1234/5035
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://list.deeplist.nl:80/0002/1234/2410
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://list.deeplist.nl:80/0002/1234/20805
+#EXTINF:0,DISCOVERY CIVILIZATION FULL HD
+http://list.deeplist.nl:80/0002/1234/26026
+#EXTINF:0,DISCOVERY CIVILIZATION HD
+http://list.deeplist.nl:80/0002/1234/16005
+#EXTINF:0,DISCOVERY HOME & HEALTH
+http://list.deeplist.nl:80/0002/1234/2399
+#EXTINF:0,DISCOVERY HOME & HEALTH FULL HD
+http://list.deeplist.nl:80/0002/1234/46905
+#EXTINF:0,DISCOVERY HOME & HEALTH HD
+http://list.deeplist.nl:80/0002/1234/1082
+#EXTINF:0,DISCOVERY KIDS
+http://list.deeplist.nl:80/0002/1234/1080
+#EXTINF:0,DISCOVERY KIDS FULL HD
+http://list.deeplist.nl:80/0002/1234/26025
+#EXTINF:0,DISCOVERY KIDS HD
+http://list.deeplist.nl:80/0002/1234/5081
+#EXTINF:0,DISCOVERY SCIENCE
+http://list.deeplist.nl:80/0002/1234/20806
+#EXTINF:0,DISCOVERY SCIENCE FULL HD
+http://list.deeplist.nl:80/0002/1234/26024
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://list.deeplist.nl:80/0002/1234/16006
+#EXTINF:0,DISCOVERY THEATER
+http://list.deeplist.nl:80/0002/1234/20807
+#EXTINF:0,DISCOVERY THEATER FULL HD
+http://list.deeplist.nl:80/0002/1234/26023
+#EXTINF:0,DISCOVERY THEATER HD
+http://list.deeplist.nl:80/0002/1234/2460
+#EXTINF:0,DISCOVERY TURBO
+http://list.deeplist.nl:80/0002/1234/1072
+#EXTINF:0,DISCOVERY TURBO FULL HD
+http://list.deeplist.nl:80/0002/1234/5038
+#EXTINF:0,DISCOVERY TURBO HD
+http://list.deeplist.nl:80/0002/1234/2411
+#EXTINF:0,DISCOVERY WORLD
+http://list.deeplist.nl:80/0002/1234/20808
+#EXTINF:0,DISCOVERY WORLD FULL HD
+http://list.deeplist.nl:80/0002/1234/26022
+#EXTINF:0,DISCOVERY WORLD HD
+http://list.deeplist.nl:80/0002/1234/2461
+#EXTINF:0,DISNEY CHANNEL FULL HD
+http://list.deeplist.nl:80/0002/1234/46904
+#EXTINF:0,DISNEY CHANNEL HD 1
+http://list.deeplist.nl:80/0002/1234/38438
+#EXTINF:0,DISNEY CHANNEL HD 2
+http://list.deeplist.nl:80/0002/1234/5082
+#EXTINF:0,DISNEY CHANNEL SD
+http://list.deeplist.nl:80/0002/1234/38763
+#EXTINF:0,DISNEY CHANNEL SD+
+http://list.deeplist.nl:80/0002/1234/1071
+#EXTINF:0,DISNEY JR FULL HD
+http://list.deeplist.nl:80/0002/1234/26021
+#EXTINF:0,DISNEY JR HD
+http://list.deeplist.nl:80/0002/1234/20809
+#EXTINF:0,DISNEY JR SD 1
+http://list.deeplist.nl:80/0002/1234/38783
+#EXTINF:0,DISNEY JR SD 2
+http://list.deeplist.nl:80/0002/1234/1068
+#EXTINF:0,DISNEY JR SD+
+http://list.deeplist.nl:80/0002/1234/38441
+#EXTINF:0,DISNEY XD HD
+http://list.deeplist.nl:80/0002/1234/20810
+#EXTINF:0,DISNEY XD SD 1
+http://list.deeplist.nl:80/0002/1234/38761
+#EXTINF:0,DISNEY XD SD 2
+http://list.deeplist.nl:80/0002/1234/1065
+#EXTINF:0,DISNEY XD SD+
+http://list.deeplist.nl:80/0002/1234/38440
+#EXTINF:0,E!
+http://list.deeplist.nl:80/0002/1234/1063
+#EXTINF:0,EI PLUS
+http://list.deeplist.nl:80/0002/1234/42916
+#EXTINF:0,ESPN 1 SD 1
+http://list.deeplist.nl:80/0002/1234/38754
+#EXTINF:0,ESPN 1 SD 2
+http://list.deeplist.nl:80/0002/1234/1718
+#EXTINF:0,ESPN 1 SD+
+http://list.deeplist.nl:80/0002/1234/38387
+#EXTINF:0,ESPN 2 SD 1
+http://list.deeplist.nl:80/0002/1234/38756
+#EXTINF:0,ESPN 2 SD 2
+http://list.deeplist.nl:80/0002/1234/2395
+#EXTINF:0,ESPN 2 SD+
+http://list.deeplist.nl:80/0002/1234/38416
+#EXTINF:0,ESPN BRASIL SD 1
+http://list.deeplist.nl:80/0002/1234/38758
+#EXTINF:0,ESPN BRASIL SD 2
+http://list.deeplist.nl:80/0002/1234/1060
+#EXTINF:0,ESPN BRASIL SD+
+http://list.deeplist.nl:80/0002/1234/38415
+#EXTINF:0,ESPN EXTRA FULL HD
+http://list.deeplist.nl:80/0002/1234/46906
+#EXTINF:0,ESPN EXTRA HD
+http://list.deeplist.nl:80/0002/1234/20813
+#EXTINF:0,ESPN EXTRA SD 1
+http://list.deeplist.nl:80/0002/1234/20812
+#EXTINF:0,ESPN EXTRA SD 2
+http://list.deeplist.nl:80/0002/1234/40435
+#EXTINF:0,ESPN EXTRA SD+
+http://list.deeplist.nl:80/0002/1234/38417
+#EXTINF:0,FOOD NETWORK
+http://list.deeplist.nl:80/0002/1234/1049
+#EXTINF:0,FOX SPORTS
+http://list.deeplist.nl:80/0002/1234/2391
+#EXTINF:0,FOX SPORTS 2
+http://list.deeplist.nl:80/0002/1234/1717
+#EXTINF:0,FOX SPORTS 2 FULL HD
+http://list.deeplist.nl:80/0002/1234/26031
+#EXTINF:0,FOX SPORTS 2 HD
+http://list.deeplist.nl:80/0002/1234/1031
+#EXTINF:0,GLOBO ACRE HD
+http://list.deeplist.nl:80/0002/1234/49721
+#EXTINF:0,GLOBO MG SD 4
+http://list.deeplist.nl:80/0002/1234/2412
+#EXTINF:0,GLOBO MG SD+
+http://list.deeplist.nl:80/0002/1234/22367
+#EXTINF:0,GLOBO RJ SD+
+http://list.deeplist.nl:80/0002/1234/22209
+#EXTINF:0,GLOBO SP SD 4
+http://list.deeplist.nl:80/0002/1234/1024
+#EXTINF:0,GLOOB SD+
+http://list.deeplist.nl:80/0002/1234/28406
+#EXTINF:0,GLOOBINHO SD 1
+http://list.deeplist.nl:80/0002/1234/38723
+#EXTINF:0,GLOOBINHO SD 3
+http://list.deeplist.nl:80/0002/1234/38725
+#EXTINF:0,GNT SD 2
+http://list.deeplist.nl:80/0002/1234/38751
+#EXTINF:0,GNT SD 3
+http://list.deeplist.nl:80/0002/1234/38750
+#EXTINF:0,HBO
+http://list.deeplist.nl:80/0002/1234/1020
+#EXTINF:0,HBO 2
+http://list.deeplist.nl:80/0002/1234/2489
+#EXTINF:0,HBO FAMILY
+http://list.deeplist.nl:80/0002/1234/1016
+#EXTINF:0,HBO HD
+http://list.deeplist.nl:80/0002/1234/1209
+#EXTINF:0,HBO PLUS
+http://list.deeplist.nl:80/0002/1234/1014
+#EXTINF:0,MAIS GLOBOSAT SD 3
+http://list.deeplist.nl:80/0002/1234/38747
+#EXTINF:0,MAIS GLOBOSAT SD 4
+http://list.deeplist.nl:80/0002/1234/1008
+#EXTINF:0,MAIS GLOBOSAT SD+
+http://list.deeplist.nl:80/0002/1234/28398
+#EXTINF:0,MEGAPIX HD
+http://list.deeplist.nl:80/0002/1234/2470
+#EXTINF:0,MULTISHOW HD
+http://list.deeplist.nl:80/0002/1234/2385
+#EXTINF:0,MULTISHOW SD 1
+http://list.deeplist.nl:80/0002/1234/38731
+#EXTINF:0,MULTISHOW SD 2
+http://list.deeplist.nl:80/0002/1234/38730
+#EXTINF:0,MULTISHOW SD 3
+http://list.deeplist.nl:80/0002/1234/38729
+#EXTINF:0,MULTISHOW SD 4
+http://list.deeplist.nl:80/0002/1234/1211
+#EXTINF:0,MULTISHOW SD+
+http://list.deeplist.nl:80/0002/1234/24286
+#EXTINF:0,NATGEO KIDS
+http://list.deeplist.nl:80/0002/1234/11965
+#EXTINF:0,NHK
+http://list.deeplist.nl:80/0002/1234/2495
+#EXTINF:0,NICK
+http://list.deeplist.nl:80/0002/1234/1206
+#EXTINF:0,NICK HD
+http://list.deeplist.nl:80/0002/1234/5093
+#EXTINF:0,NICK JR
+http://list.deeplist.nl:80/0002/1234/986
+#EXTINF:0,NICK JR HD
+http://list.deeplist.nl:80/0002/1234/16210

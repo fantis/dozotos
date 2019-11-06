@@ -5,10 +5,10 @@
 
 -----Manifest-----:
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/freakpop.com.br/wp-content/uploads/2019/10/manifest-globoplay.jpg?fit=900%2C560&ssl=1" group-title="Manifestx" description="já haviam perdido toda a esperança, mas agora eles recebem uma segunda chance. Tentando se acostumar com suas novas realidades, esses passageiros se veem parte de mistérios mais profundos do que jamais poderiam imaginar.", Manifest
-#EXTINF:0 type="video" group-title="Manifestx", 1T|E01 Manifest
+#EXTINF:0 tvg-logo="https://i0.wp.com/freakpop.com.br/wp-content/uploads/2019/10/manifest-globoplay.jpg?fit=900%2C560&ssl=1" group-title="Manifest teste" description="já haviam perdido toda a esperança, mas agora eles recebem uma segunda chance. Tentando se acostumar com suas novas realidades, esses passageiros se veem parte de mistérios mais profundos do que jamais poderiam imaginar.", Manifest
+#EXTINF:0 type="video" group-title="Manifest teste", 1T|E01 Manifest
 https://slave2.sfplayer.net/drive//hls/0f4c26c87bc07aad0a793e91821d1398/0f4c26c87bc07aad0a793e91821d1398.m3u8
-#EXTINF:0 type="video" group-title="Manifestx", 1T|E02 Manifest
+#EXTINF:0 type="video" group-title="Manifest teste", 1T|E02 Manifest
 https://slave2.sfplayer.net/drive//hls/18301527f06b14f3e9dfb6021bbbb31a/18301527f06b14f3e9dfb6021bbbb31a.m3u8
 
 -----Manifest-----:

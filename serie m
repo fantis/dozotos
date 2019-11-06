@@ -1,5 +1,17 @@
 #EXTM3U size="Medium"
 
+#EXTM3U size="Medium"
+#EXTINF:-1 tvg-logo="" group-title="NARCOS" description="A vida e a morte de Pablo Escobar (Wagner Moura), um dos maiores narcotraficantes do mundo, chefe do Cartel de Medellín, na Colômbia. Escobar também era conhecido por ser um homem de família e reverenciado pela população mais pobre como um tipo de Robin Hood.", T01E01 NARCOS
+https://slave2.sfplayer.net/drive//hls/0f4c26c87bc07aad0a793e91821d1398/0f4c26c87bc07aad0a793e91821d1398.m3u8
+
+#EXTM3U size="Medium"
+#EXTINF:-1 tvg-logo="" group-title="NARCOS", o 12º homem
+<info>Noruega, 1943: depois que uma fracassada missão de sabotagem aos nazistas deixar seus onze companheiros mortos, o combatente da resistência norueguesa Jan Baalsrud (Thomas Gullestad) se vê foragido da Gestapo pelos trechos árticos da Escandinávia. É uma jornada angustiante através do deserto implacável e congelado que se estenderá por meses e forçará Jan a tomar medidas extremas para sobreviver.</info>
+https://slave2.sfplayer.net/drive//hls/0f4c26c87bc07aad0a793e91821d1398/0f4c26c87bc07aad0a793e91821d1398.m3u8
+
+
+
+
 -----Manifest-----:
 
 #EXTINF:0 tvg-logo="https://i0.wp.com/freakpop.com.br/wp-content/uploads/2019/10/manifest-globoplay.jpg?fit=900%2C560&ssl=1" group-title="Manifest", 1T-E01

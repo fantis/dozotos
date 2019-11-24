@@ -1057,14 +1057,15 @@ http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP16.mp4?attachment=true
 		
 		10ª Temporada
 		
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E01 - Caminhos Que Cruzamos
-https://slave2.sfplayer.net/drive//hls/7141b0dcc2938393b0d78aa4987b7a07/7141b0dcc2938393b0d78aa4987b7a07.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E02 - Nós Somos o Fim do Mundo
-https://slave2.sfplayer.net/drive//hls/8e2a8095a16e8d30d18a348669bb1511/8e2a8095a16e8d30d18a348669bb1511.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E03 - Fantasmas
-https://slave2.sfplayer.net/drive//hls/e7748c9bb286ee45862ec501d310303a/e7748c9bb286ee45862ec501d310303a.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E04 - Silencie os Sussurradores
-http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP04.mp4
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E01 - Caminhos Que Cruzamos
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E02 - Nós Somos o Fim do Mundo	
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E03 - Fantasmas	
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E04 - Silencie os Sussurradores	
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP04.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E05 - O Que Sempre É
 http://cdnfe3.azureedge.net/RCServer13/ondemand/TWDT08EP05.mp4
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/DHQzM5Ee4cw/maxresdefault.jpg" group-title="The Walking Dead", T10-E06 - Ossos
